@@ -1,13 +1,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Anh gửi tặng em <3</title>
+<title>em gửi tặng anh <3</title>
 <link rel="shortcut icon" href="http://graph.facebook.com/1546047230/picture"/>
-<meta property="og:title" content=".:: Hiếu iu Như ::."/>
-            <meta property="og:description" content="Minh Hiếu yêu Quỳnh Như"/>
+<meta property="og:title" content=".:: Ý iu cục đá ::."/>
+            <meta property="og:description" content="Như Ý yêu Toàn Thắng"/>
             <meta property="og:type" content="company />
-            <meta property="og:image" content="http://minh-hieu.comli.com/on-img.jpg"/>
-                <meta name="description" content="Minh Hiếu yêu Quỳnh Như"/>
+            <meta property="og:image" content="http://như-ý.comli.com/on-img.jpg"/>
+                <meta name="description" content="Như Ý yêu Toàn Thắng"/>
  
 <SCRIPT language="JavaScript">
 if (window!=top){top.location.href=location.href;}
@@ -35,7 +35,7 @@ document.onmouseup=reEnable
         var snowmax=14
         var snowcolor=new Array("#AAAACC","#DDDDFF","#CCCCDD","#F3F3F3","#F0FFFF")
         var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
-        var snowletter="Hiếu Yêu Như"    //sửa tên
+        var snowletter="Ý Yêu Thắng"    //sửa tên
         var sinkspeed=0.6
         var snowmaxsize=14
         var snowminsize=8
@@ -253,7 +253,7 @@ $(function(){
         }
         function al() {
         alert("HaHa. Biết ngay mà!!");
-        alert("Thích anh lâu rồi mà không dám nói chứ gì?");
+        alert("Thích em lâu rồi mà không dám nói chứ gì?");
         alert("Nhắm mắt lại nào");
         alert("Đi thôi....  !!!!");
         }
@@ -284,7 +284,7 @@ $(function(){
     <form>
         <h2 align="center">
         <span style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:white; text-shadow: 0pt 0pt 0.3em LightGreen, 0pt 2pt 0.3em LightGreen;">
-        <b>Em có yêu Anh không?</b>
+        <b>anh có yêu em không?</b>
         </span>
         </h2>
         
@@ -389,7 +389,7 @@ $(function(){
 </ul>
  
 <script>
-var txt=" Anh gửi tặng Em - " ;
+var txt=" em gửi tặng anh - " ;
 var espera=100;
 var refresco=null;
 function rotulo_title() {
